@@ -1,5 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  background-color: white;
+  z-index: 100;
+  width: 100%;
+}
 .header__icon {
   object-fit: contain;
   height: 100px;
   margin-left: 20px;
+}
+
+.header__center {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
 }
