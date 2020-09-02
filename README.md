@@ -14,6 +14,7 @@
 - Eslint
 - npm
 - CSS
+- React-date-picker
 
 ## Live Version 
 <a href="https://covid-tracker-mo.netlify.app/" target="_blank" > Live version </a>
