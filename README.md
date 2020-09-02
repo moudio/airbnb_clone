@@ -17,7 +17,7 @@
 - React-date-picker
 
 ## Live Version 
-<a href="https://covid-tracker-mo.netlify.app/" target="_blank" > Live version </a>
+<a href="https://airbnb-clone-a93b9.web.app" target="_blank" > Live version </a>
 
 ## Usage 
 
