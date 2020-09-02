@@ -9,7 +9,7 @@ function Header() {
     <div className="header">
       <img
         className="header__icon"
-        src="https://logos-world.net/wp-content/uploads/2020/07/Airbnb-Logo.png"
+        src="https://miro.medium.com/max/1068/1*BsKbDTA9ZUVroeJ7asId4Q.png"
         alt=""
       />
       <div className="header__center">
